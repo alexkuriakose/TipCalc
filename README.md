@@ -15,3 +15,5 @@ Procedure
 10.	Inside the method ,create a switch case function such that ,if the user enters the first option, user input is taken and the text is converted in to integer, and the 20 percent of the value is generated and if the user enters the second  option, user input is taken and the text is converted in to integer, and the 10 percent of the value is generated, and if the user enters the first option, user input is taken and the text is converted in to integer, and the 4 percent of the value is generated.
 11.	If the switch called “Round up” is clicked on, the obtained value is rounded off to nearest Integer value.
 12.	The output is generated in the Text View created Below.
+
+![image](https://user-images.githubusercontent.com/56859069/188308760-a3e325d2-1f5e-45cf-b1ed-a5ed021b99e5.png)
